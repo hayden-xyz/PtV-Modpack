@@ -21,12 +21,25 @@
 ___
 # Vorbereitung
 
+#### 1. Komponeten heraussuchen und Preise vergleichen (z.B auf [Geizhals](https://geizhals.de)).
+   - Falls nötig, [PC-Konfigurator](https://alternate.de/configurator.xhtml) benutzen, um die Kopatibilität der Komponenten sicherzustellen.
+
+#### 2. Arbeitsplatz aufräumen:
+   - nicht benötigte Sachen wegräumen
+   - weiche Unterlage auslegen (<b>Keinen</b> Teppich, da dieser sich während der Arbeit elektrostatisch aufladen kann)
+   - Anti-Statik-Armband benutzen (optional)
+
+#### 3. Benötigte Komponenten und Werkzeuge bereitlegen
+   - Sammelschüssel für Kleinteile
+   - Kabelbinder + Schere
+   - Schraubendreher
 ___
 # Arbeitsschutz und Sicherheit
 
 ___
 # Werkzeuge und Materialien
-
+- Schraubendreher mit verschiedenen Bits
+   - Ich empfehle das [Ifixit Moray Precision Bit Set](https://ifixit.com/de-de/products/moray-driver-kit)
 ___
 # Allgemeines Zubehör
 
