@@ -36,3 +36,34 @@ ___
 ___
 # Gehäuse
 
+___
+# Netzteil
+
+___
+# Mainboard
+
+___
+# Prozessor / Kühler
+
+___
+# Arbeitsspeicher (RAM)
+
+___
+# Datenspeicher
+
+___
+# Zusätzliche Laufwerke
+
+___
+# Erweiterungskarten
+
+___
+# Montage
+
+___
+# Inbetriebnahme
+
+___
+# Entsorgung
+
+___
