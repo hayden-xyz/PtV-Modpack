@@ -2,7 +2,7 @@
 
 1. [Vorbereitung](#vorbereitung)
 2. [Arbeitsschutz und Sicherheit](#arbeitsschutz-und-sicherheit)
-3. [Werkzeuge und Materialien](#werkzeuge-und-materialien)
+3. [Benötigte Werkzeuge und Materialien](#benötigte-werkzeuge-und-materialien)
 4. [Allgemeines Zubehör](#allgemeines-zubehör)
 
 1. [Gehäuse](#gehäuse)
@@ -20,7 +20,8 @@
 ___
 <h2 align="center">Vorbereitung</h2>
 
-#### 1. Komponeten heraussuchen und Preise vergleichen (z.B. auf [Geizhals](https://geizhals.de)).
+Vor dem Beginn des Montageprozesses ist sicherzustellen, dass sämtliche Komponenten vollständig und kompatibel vorliegen. Eine antistatische Unterlage und ggf. ein ESD-Armband sind bereitzulegen. Der Arbeitsbereich sollte sauber, gut beleuchtet und frei von elektrostatischer Aufladung sein.
+<!--#### 1. Komponeten heraussuchen und Preise vergleichen (z.B. auf [Geizhals](https://geizhals.de)).
    - Falls nötig, [PC-Konfigurator](https://alternate.de/configurator.xhtml) benutzen, um die Kompatibilität der Komponenten zu gewährleisten.
 
 #### 2. Arbeitsplatz aufräumen:
@@ -31,17 +32,17 @@ ___
 #### 3. Benötigte Komponenten und Werkzeuge bereitlegen
    - Sammelschüssel für Kleinteile
    - Kabelbinder + Schere
-   - Kreuzschlitzschraubendreher
+   - Kreuzschlitzschraubendreher-->
 ___
 <h2 align="center">Arbeitsschutz und Sicherheit</h2>
 
 - aufgeräumter / ordentlicher Arbeitsplatz 
 - Tragen eines ESD-Armbands, um Schäden durch elektrostatische Entladungen an empfindlichen Bauteilen zu vermeiden
-- weiche Unterlage auslegen
-
-! <b>Nicht</b> auf einem Teppich arbeiten, da sich dieser während der Arbeit elektrostatisch aufladen kann !
+- Antistatik / ESD-Matte auslegen
+- Arbeiten ausschließlich bei <b>Netztrennung</b> (keine Stromzufuhr)
+- Vorsicht beim Umgang mit scharfkantigen Gehäuseteilen
 ___
-<h2 align="center">Werkzeuge und Materialien</h2>
+<h2 align="center">Benötigte Werkzeuge und Materialien</h2>
 
 - Sammelaufbewahrung für Kleinteile
 - Kabelbinder oder Klettverschlüsse für Kabelmanagement
@@ -91,7 +92,7 @@ ___
    - Micro-ATX: Kompakter mit weniger Steckplätzen.​
    - Mini-ITX: Sehr klein mit minimalen Erweiterungsmöglichkeiten.​
 
-#### Sockel: 
+#### CPU-Sockel: 
    - Der CPU-Sockel bestimmt, welche Prozessoren kompatibel sind (z.B. Intel LGA1200 oder AMD AM4).​
 
 #### Speicherbänke: 
