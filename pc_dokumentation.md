@@ -25,8 +25,8 @@ ___
 
 #### 2. Arbeitsplatz aufräumen:
    - nicht benötigte Sachen wegräumen
-   - weiche Unterlage auslegen
-   - Anti-Statik Armband benutzen (optional)
+   - Anti-Statik Unterlage auslegen
+   - Anti-Statik Armband benutzen
 
 #### 3. Benötigte Komponenten und Werkzeuge bereitlegen
    - Sammelschüssel für Kleinteile
@@ -36,17 +36,18 @@ ___
 <h2 align="center">Arbeitsschutz und Sicherheit</h2>
 
 - aufgeräumter / ordentlicher Arbeitsplatz 
-- Anti-Statik Armband benutzen (optional)
+- Tragen eines ESD-Armbands, um Schäden durch elektrostatische Entladungen an empfindlichen Bauteilen zu vermeiden
 - weiche Unterlage auslegen
-> [!CAUTION]
-> <b>Nicht</b> auf einem Teppich arbeiten, da sich dieser während der Arbeit elektrostatisch aufladen kann
+
+! <b>Nicht</b> auf einem Teppich arbeiten, da sich dieser während der Arbeit elektrostatisch aufladen kann !
 ___
 <h2 align="center">Werkzeuge und Materialien</h2>
 
 - Sammelaufbewahrung für Kleinteile
-- Schere + Kabelbinder
-- Schraubendreher mit verschiedenen Bits (z.B. [Ifixit Moray Precision Bit Set](https://ifixit.com/de-de/products/moray-driver-kit))
+- Kabelbinder oder Klettverschlüsse für Kabelmanagement
+- Kreuzschlitzschraubendreher (Größe PH2 empfohlen)
 - Wärmeleitpaste (falls nicht bereits auf dem CPU-Kühler aufgetragen)
+- ggf. Isopropanol und Mikrofasertuch zur Reinigung
 ___
 <h2 align="center">Allgemeines Zubehör</h2>
 
@@ -74,15 +75,16 @@ ___
    - Modular: Alle Kabel können individuell angeschlossen oder entfernt werden, was das Kabelmanagement erleichtert.​
 
 #### Anschlüsse: 
-   - Stellen Sie sicher, dass das Netzteil über genügend und die richtigen Anschlüsse für alle Komponenten verfügt, wie z.B. 24-Pin für das Mainboard, 8-Pin für die CPU und PCIe-Anschlüsse für Grafikkarten.​
-
+   - 24-Pin ATX (Mainboard)
+   - 8/4/4+4-Pin EPS (CPU)
+   - PCIe 6/6+2/8-Pin (GPU, Andere
 #### Leistung: 
    - Die benötigte Wattzahl hängt von den verbauten Komponenten ab. Starke CPUs und GPUs erhöhen den Energiebedarf.
 ___
 <h2 align="center">Mainboard</h2>
 
 > <b>Das Mainboard ist die zentrale Platine, die alle Komponenten miteinander verbindet</b>
-#### Wichtige Merkmale sind:​
+<b>Wichtige Merkmale sind:​</b>
 
 #### Formfaktoren:
    - ATX: Standardgröße mit vielen Erweiterungssteckplätzen.​
@@ -96,7 +98,10 @@ ___
    - Anzahl der Steckplätze für RAM-Module, die die maximale Menge und Art des unterstützten Arbeitsspeichers bestimmen.​
 
 #### Anschlüsse: 
-   - USB-Ports, SATA-Anschlüsse für Laufwerke, M.2-Steckplätze für SSDs und weitere Schnittstellen für Peripheriegeräte.​
+   - USB-Ports,
+   - SATA-Anschlüsse für Laufwerke,
+   - M.2-Steckplätze für SSDs
+   - weitere Schnittstellen für Peripheriegeräte.​
 
 #### Erweiterungsslots: 
    - PCIe-Steckplätze für Grafikkarten, Soundkarten oder andere Erweiterungskarten.
