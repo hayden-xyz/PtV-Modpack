@@ -9,7 +9,7 @@
 2. [Netzteil](#netzteil)
 3. [Mainboard](#mainboard)
 4. [Prozessor / Kühler](#prozessor--kühler)
-5. [Arbeitsspeicher (RAM)](#arbeitsspeicher-ram)
+5. [Arbeitsspeicher (RAM)](#arbeitsspeicher-ram---random-access-memory)
 6. [Datenspeicher](#datenspeicher)
 7. [Zusätzliche Laufwerke](#zusätzliche-laufwerke)
 8. [Erweiterungskarten](#erweiterungskarten)
@@ -99,7 +99,6 @@ ___
 <h2 align="center">Mainboard</h2>
 
 > <b>Das Mainboard ist die zentrale Platine, die alle Komponenten miteinander verbindet</b>
-<b>Wichtige Merkmale sind:​</b>
 
 #### Formfaktoren:
    - ATX: Standardgröße mit vielen Erweiterungssteckplätzen.​
@@ -112,6 +111,9 @@ ___
 #### DIMM-Bänke: 
    - Steckplätze​ für RAM-Module, meist DDR4 oder DDR5
 
+#### Schnittstellen:
+   - Interne: SATA, M.2, USB-Header, Lüfteranschlüsse
+   - Externe: USB, HDMI, Audio, Ethernet (RJ45)
 <!--#### Anschlüsse: 
    - USB-Ports,
    - SATA-Anschlüsse für Laufwerke,
@@ -119,16 +121,16 @@ ___
    - weitere Schnittstellen für Peripheriegeräte.​-->
 
 #### Erweiterungsslots: 
-   - PCIe-Steckplätze für Grafikkarten, Soundkarten oder andere Erweiterungskarten.
+   - PCIe-Steckplätze für Grafikkarten, Netzwerkkarten oder andere Erweiterungskarten.
 ___
 <h2 align="center">Prozessor / Kühler</h2>
 
-> <b>Die CPU führt die Berechnungen und Prozesse aus. Es gibt Unterschiede in:​</b>
+> <b>Die CPU ist das zentrale Rechenwerk des Computers und übernimmt sämtliche arithmetisch-logischen Operationen</b>
 
 #### Kerne und Threads: 
    - Mehr Kerne und Threads ermöglichen bessere Multitasking-Fähigkeiten und Leistung in parallelisierten Anwendungen.​
 
-#### Taktfrequenz: 
+<!--#### Taktfrequenz: 
    - Höhere Frequenzen bedeuten schnellere Verarbeitungsgeschwindigkeiten.​
 
 > <b>Der Kühler hält die CPU auf optimaler Betriebstemperatur:</b>​
@@ -137,9 +139,9 @@ ___
    - Verwendet Lüfter und Kühlkörper, um Wärme abzuführen.​
 
 #### Wasserkühlung: 
-   - Setzt auf Flüssigkeitskreisläufe zur effizienteren Kühlung, oft leiser und effektiver bei hoher Wärmeentwicklung.
+   - Setzt auf Flüssigkeitskreisläufe zur effizienteren Kühlung, oft leiser und effektiver bei hoher Wärmeentwicklung.-->
 ___
-<h2 align="center">Arbeitsspeicher (RAM)</h2>
+<h2 align="center">Arbeitsspeicher (RAM - Random Access Memory)</h2>
 
 > <b>Der RAM speichert temporäre Daten für den schnellen Zugriff durch die CPU​</b>
 
