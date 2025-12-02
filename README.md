@@ -3,6 +3,7 @@
 This repo exists for the sole purpose of me updating the pack
 
 <b>I DO NOT claim ownership over any of the files distributed with the Modpack. 
+
 A list of all the Mods / Resource Packs / Shaderpacks and their respective creators can be found here:</b>
 
 ## Updating the Pack in Prism:
