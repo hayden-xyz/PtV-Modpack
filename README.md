@@ -2,6 +2,8 @@
 
 This repo exists for the sole purpose of me updating the pack
 
+<b>I do not claim ownership over any of the files contained in the Modpack, copyright belongs to their respective creators.</b>
+
 ## Updating the Pack in Prism:
 
 1. Right click on the Instance and select "Edit"
